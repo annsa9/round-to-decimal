@@ -10,11 +10,16 @@ This lib. will give decimal points if necessary.
 
 # Usage
 ```const toDecimals = require('round-to-decimal');```
+
                      OR
-```import toDecimals from "round-to-decimal";```
+
+```import toDecimals from 'round-to-decimal';```
+
 
 ```const num = toDecimals(1.00, 2); // output -> 1```
+
 ```const num = toDecimals(2.45678, 2); // output -> 2.46```
+
 ```const num = toDecimals(1.13412, 3); // output -> 1.134```
 
 # About
