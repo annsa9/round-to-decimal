@@ -1,0 +1,25 @@
+{
+  "name": "round-to-decimal",
+  "version": "1.0.0",
+  "description": "A small javascript library to convert value to fixed decimal points if necessary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annsa9/round-to-decimal.git"
+  },
+  "keywords": [
+    "toFixed",
+    "roundTo",
+    "Decimal",
+    "points"
+  ],
+  "author": "Arunsing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annsa9/round-to-decimal/issues"
+  },
+  "homepage": "https://github.com/annsa9/round-to-decimal#readme"
+}
