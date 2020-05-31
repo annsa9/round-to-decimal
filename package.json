@@ -1,6 +1,6 @@
 {
   "name": "round-to-decimal",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A small javascript library to convert value to fixed decimal points if necessary",
   "main": "index.js",
   "scripts": {
