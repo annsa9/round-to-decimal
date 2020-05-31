@@ -11,9 +11,7 @@ This lib. will give decimal points if necessary.
 # Usage
 ```const toDecimals = require('round-to-decimal');```
 
-                     OR
-
-```import toDecimals from 'round-to-decimal';```
+```// OR import toDecimals from 'round-to-decimal';```
 
 
 ```const num = toDecimals(1.00, 2); // output -> 1```
